@@ -1,9 +1,13 @@
 body {
-    color: deeppink;
+    color: palevioletred;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
     color: turquoise;
+}
+
+#cabecera {
+    background: blue;
 }
